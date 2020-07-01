@@ -1,9 +1,16 @@
 {
-  "homepage": "https://www.curseforge.com/minecraft/mc-mods/radioactive-blocks",
-  "1.16.1": {
-    "4.0.2": "Update to use Forge Update Checker"
+  "homepage": "www.curseforge.com/minecraft/mc-mods/radioactive-blocks",
+  "promos": {
+    "1.16.1-latest": "4.0.3",
+    "1.15.2-recommended": "3.0.1_1.15.2-31.2.0"
   },
-  "1.15.2": {},
+  "1.16.1": {
+    "4.0.3-1.16.1-32.0.25": "Removes logo file from mods.toml.",
+    "4.0.2-1.16.1-32.0.25": "Update to use Forge Update Checker."
+  },
+  "1.15.2": {
+    "3.0.1_1.15.2-31.2.0": "Removes logo from mods.toml, Update to use Forge Update Checker."
+  },
   "1.14.4": {},
   "1.12.2": {}
 }
